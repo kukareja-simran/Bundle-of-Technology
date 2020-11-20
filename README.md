@@ -8,5 +8,5 @@ Automation is the use of control systems, such as computers and information tech
 Here I created Automation script where I integrate all technologies that I know till this date.
 
 
-For more details, 𝗣𝗹𝗲𝗮𝘀𝗲 𝗩𝗶𝘀𝗶𝘁 𝗺𝘆 𝗰𝗼𝗱𝗲 𝗼𝗻𝗰𝗲
+For more details, https://www.linkedin.com/posts/simran-kukareja_python-vimaldaga-righteducation-activity-6734351475713044480-r4o9
 
