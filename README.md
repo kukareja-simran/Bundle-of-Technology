@@ -1,4 +1,4 @@
-# Take control of your Machine in your hand
+# Bundle of Technologies
 
 The technique where reducing human intervention to a minimum is known as 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒐𝒏.
 
